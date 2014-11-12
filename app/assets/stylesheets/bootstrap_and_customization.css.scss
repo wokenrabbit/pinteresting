@@ -1,13 +1,15 @@
-$body-bg: #34495e;
-$navbar-inverse-bg: #27ae60;
-$navbar-inverse-link-color: #34495e;
-$brand-primary: #7f8c8d;
-$jumbotron-bg: white;
+$body-bg:												#ecf0f1;
+$font-family-sans-serif:				'Lato', 'Helvetica Neue', Helvetica, Arial;
+$navbar-bg: 										white;
+$navbar-height:									45px;
+$navbar-default-brand-color: 		#c0392b;
+$brand-primary: 								#c0392b;
+$jumbotron-bg: 									white;
 
 
 @import 'bootstrap';
 
-.cent{
+.center {
 		text-align: center;
 }
 
